@@ -11,7 +11,7 @@ interface Alignment {
         val CenterStart = object : Alignment {}
         val Center = object : Alignment {}
         val CenterEnd = object : Alignment {}
-        val BoottomStart = object : Alignment {}
+        val BottomStart = object : Alignment {}
         val BoottomCenter = object : Alignment {}
         val BoottomEnd = object : Alignment {}
 
